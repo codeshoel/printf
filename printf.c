@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <stdarg.h>
 /***
-* Description: _printf - function to produce output according to a format
+* _printf - function to produce output according to a format
 * @format: String with format specifier
 * Returns: the number of characters printed;
 */
