@@ -3,6 +3,13 @@
 #include <stdio.h>
 #include <stdarg.h>
 
+/**
+ * struct specifier - struct specifier
+ * @valid: the valid character.
+ * @f: the functions associated.
+ *
+ */
+
 
 typedef struct specifier
 {
