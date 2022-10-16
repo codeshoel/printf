@@ -1,5 +1,3 @@
-#ifdef AL_X_INCLUDED
-#define AL_X_INCLUDED
 #define our_printf
 #ifndef our_printf
 #include <stdio.h>
