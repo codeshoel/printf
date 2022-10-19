@@ -2,12 +2,21 @@
 #define our_printf
 #include <stdio.h>
 #include <stdarg.h>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 88731dca3fe988170dfe057111487ca73c1e0ca9
 /**
  * struct specifier - struct specifier
  * @valid: the valid character.
  * @f: the functions associated.
  *
  */
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 88731dca3fe988170dfe057111487ca73c1e0ca9
 typedef struct specifier
 {
 	char *valid;
