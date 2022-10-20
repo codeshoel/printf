@@ -12,6 +12,6 @@
 
 ### Authors
    - Gabriel Jacob
-   - Patrick Matthew
+   - Oyelami Matthew
 
 
